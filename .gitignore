@@ -6,3 +6,4 @@
 /javascript/generated_wasm
 /javascript/node_modules
 /book-src/js
+/book-dist
