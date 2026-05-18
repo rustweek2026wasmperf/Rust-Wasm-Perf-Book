@@ -1,8 +1,5 @@
 # Why WebAssembly on the browser?
 
-> "Is WebAssembly magic performance pixie dust? .... The incredibly unsatisfying answer is: It
-> depends." ~ [Surma](https://surma.dev/things/js-to-asc/)
-
 Although JavaScript can be written to be extremely fast, it's non trivial to squeeze performance out
 of it. Often it requires writing the JavaScript like C code, and you still need to be extremely
 aware of performance cliffs that exist in the underlying JavaScript interpreters.
