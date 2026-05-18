@@ -31,7 +31,7 @@ For JavaScript, install `pnpm` and then run `pnpm install` from the `javascript`
 
 Install:
 
- - `cargo binstall bacon@3.22.0 --only-signed` – watch and re-compile wasm code.
+ - `cargo binstall bacon@3.22.0 --only-signed` – watch and re-compile the wasm code.
 
 
 In one terminal run `bacon dev` – build Wasm and JavaScript.
