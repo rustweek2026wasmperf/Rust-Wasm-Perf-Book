@@ -1,4 +1,4 @@
-name = "rustweek-2026-wasm-myths"
+name = "rust-wasm-myths"
 compatibility_date = "2025-05-01"
 workers_dev = true
 
