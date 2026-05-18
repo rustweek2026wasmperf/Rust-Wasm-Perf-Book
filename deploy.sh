@@ -1,10 +1,6 @@
 #!/bin/bash
 set -e
 
-# This script changes the base paths of the JavaScript assets such that the GitHub page is deployed
-# correctly.
-
-
 REPO_PATH="/rustweek-2026-wasm-myths"
 HEAD_HBS="theme/head.hbs"
 
