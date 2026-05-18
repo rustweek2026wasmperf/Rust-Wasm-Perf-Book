@@ -24,8 +24,6 @@ mv "$HEAD_HBS.bak" "$HEAD_HBS"
 
 # Deploy to github
 cd book-dist
-git init
-git remote add origin git@github.com:ajakubowicz-canva/rustweek-2026-wasm-myths.git
 git add -A
 git commit -m "deploy"
 git push origin HEAD:gh-pages -f
